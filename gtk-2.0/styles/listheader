@@ -32,10 +32,10 @@ style "treeview" {
 }
 
 widget_class "*List" style "treeview"
-widget_class "*GtkTree*" style "treeview"
+/*widget_class "*GtkTree*" style "treeview"*/
 widget_class "*GtkCList*" style "treeview"
 widget_class "*GtkCTree*" style "treeview"
 widget_class "*GtkList*" style "treeview"
 widget_class "*.ETree.*" style "treeview"
-class "GtkTreeView" style "treeview"
+/*widget_class "GtkTreeView" style "treeview"*/
 
