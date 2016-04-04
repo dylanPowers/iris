@@ -91,6 +91,7 @@ style "menubar"
 	fg[NORMAL] = @bg_color
 	fg[PRELIGHT] = @bg_color
 	fg[SELECTED] = @bg_color
+  bg[NORMAL] = @text_color
   xthickness			= 1
   ythickness			= 1
 	engine "pixmap"
